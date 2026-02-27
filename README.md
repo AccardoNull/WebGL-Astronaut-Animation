@@ -1,6 +1,6 @@
 # WebGL-Astronaut-Animation
 
-Animation showcase: 
+Animation showcase: https://accardonull.github.io/WebGL-Astronaut-Animation/
 
 Usage:
 
