@@ -2,6 +2,10 @@
 
 Animation showcase: 
 
+Usage:
+
+Press 'Toggle Animation' button to start the scene.
+
 Features included:
 
 The program utilize real-time to synchronize animations, all animated rotation use 'Time' variable to calculate object's movements.
